@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="password">icons/password.png</file>
+        <file alias="diff">icons/diff.png</file>
+        <file alias="downupload">icons/filedownupload.png</file>
+        <file alias="server">icons/server.png</file>
+        <file alias="user">icons/user.png</file>
+        <file alias="browse">icons/browse.png</file>
+        <file alias="control">icons/control.png</file>
+        <file alias="delete">icons/delete.png</file>
+        <file alias="download">icons/download.png</file>
+        <file alias="file">icons/file.png</file>
+        <file alias="filedownupload">icons/filedownupload.ico</file>
+        <file alias="filelist">icons/filelist.png</file>
+        <file alias="refresh">icons/refresh.png</file>
+        <file alias="search">icons/search.png</file>
+        <file alias="upload">icons/upload.png</file>
+    </qresource>
+</RCC>
